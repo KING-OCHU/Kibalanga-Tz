@@ -1,4 +1,4 @@
-<img src="https://github.com/SAM-OCHU/Kibalanga-Tz/drips.jpg"/>
+<img src="https://github.com/SAM-OCHU/Kibalanga-Tz/blob/main/drips.jpg"/>
 
  <br>
 
